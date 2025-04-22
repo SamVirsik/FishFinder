@@ -1,8 +1,15 @@
 # FishFinder
 
-![Demo 1](https://raw.githubusercontent.com/SamVirsik/FishFinder/main/Screenshot%202025-04-22%20142041.png)
-![Demo 2](https://raw.githubusercontent.com/SamVirsik/FishFinder/main/Screenshot%202025-04-22%20142147.png)
-![Demo 3](https://raw.githubusercontent.com/SamVirsik/FishFinder/main/Screenshot%202025-04-22%20142403.png)
+<p align="center">
+
+  <img src="https://raw.githubusercontent.com/SamVirsik/FishFinder/main/Screenshot%202025-04-22%20142147.png" width="700"/>
+</p>
+
+<!-- Two side-by-side images (smaller) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SamVirsik/FishFinder/main/Screenshot%202025-04-22%20142041.png" width="345"/>
+  <img src="https://raw.githubusercontent.com/SamVirsik/FishFinder/main/Screenshot%202025-04-22%20142403.png" width="345"/>
+</p>
  
 FishFinder is an interactive bathymetry visualization tool designed for exploring underwater topography through a web-based interface. It allows users to analyze and interact with bathymetric data easily, making it ideal for marine researchers, fishermen, and oceanographers who need precise and detailed underwater terrain visualizations.  
 
